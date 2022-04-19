@@ -14,10 +14,13 @@ Download the Project folder and run the main.py file
   ```sh
   pip install pyqt5
   ```
-## Screen shots
+## Screenshots
+![Screenshot](screenshot-paint3.jpg)
 ![Screenshot](screenshot-paint1.jpg)
 
 ![Screenshot](screenshot-paint2.jpg)
+![Screenshot](screenshot-paint4.jpg)
+![Screenshot](screenshot-paint5.jpg)
 
 ## Painting/Drawing Tools
 * ### pen - free drawing
